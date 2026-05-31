@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicepender",
+        "uuid": 7949760,
+        "checksum": "ns1a2"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
